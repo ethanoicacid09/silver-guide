@@ -1,4 +1,4 @@
 # silver-guide
-This is my fist first repository
+This is my first repository
 <br>
 Author:aayu09
