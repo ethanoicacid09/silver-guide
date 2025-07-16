@@ -1,10 +1,10 @@
 # silver-guide
 This is my first repository
 <br>
-Author:aayu09
-# [Your Name]
+Author:sakshi09
+# [sakshi bhadke]
 
-**Email:** your.email@example.com  
+**Email:** sakshibhadke@gmail.com 
 **GitHub:** [github.com/ethanoicacid09](https://github.com/ethanoicacid09)  
 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 
@@ -12,16 +12,16 @@ Author:aayu09
 
 ## 🎓 Education
 
-**[Your Degree]**  
-[Your University], [Location]  
-[Month, Year] – [Month, Year or "Present"]
+**[bachelors in computer science and engineering with minor and honor]**  
+[sant gadge baba univercity], [Amravati]  
+[2025] – [Month, Year or "Present"]
 
 ---
 
 ## 💻 Skills
 
 - Python
-- [Other skills or programming languages]
+- [c langauge, dsa in c++, html, css, sql]
 - Git, GitHub
 - [Frameworks/Tools: e.g., Flask, Django, Pandas, etc.]
 
@@ -29,7 +29,7 @@ Author:aayu09
 
 ## 🛠️ Projects
 
-### [Project Name](https://github.com/ethanoicacid09/project-link)
+### [my blog](https://github.com/ethanoicacid09/project-link)
 Short description of the project, what you did, and any achievements or results.
 
 ### [Project Name](https://github.com/ethanoicacid09/project-link)
@@ -47,10 +47,10 @@ Short description of the project, what you did, and any achievements or results.
 
 ## 📜 Certifications
 
-- [Certification Name], [Issuing Organization], [Year]
+- [basics of data structure and algorithems], [simplilearn], [2025]
 
 ---
 
 ## 📫 Contact
 
-Feel free to reach out to me at [your.email@example.com]!
+Feel free to reach out to me at [sakshibhadke62gmail .com]!
