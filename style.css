@@ -1,0 +1,118 @@
+/* Reset default margins and paddings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set body styles */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: hwb(275 52% 16%);
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header styling */
+header {
+  background-color: hsl(208, 76%, 3%);
+  color: white;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+header h1 {
+  margin-bottom: 0.5rem;
+}
+
+/* Navigation bar */
+nav a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Main content */
+main {
+  padding: 2rem;
+}
+
+/* Footer styling */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+.banner {
+  background: linear-gradient(to right, hsl(277, 51%, 54%), hsl(151, 73%, 54%));
+  color: #100909;
+  text-align: center;
+  position:fixed;
+  top:0;
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+.banner h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+.banner p {
+  font-size: 1.2rem;
+  font-style: italic;
+}
+.banner {
+  background-image: url('C:\Users\DELL\OneDrive\my_blog\my-blog\image_posts\imagebi.webp');
+  background-size: cover;
+  background-position: center;
+}
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 220px;
+  height: 100%;
+  
+  color: #dfdde7;
+  padding: 2rem 1rem;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.2);
+}
+.sidebar h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+.sidebar li {
+  margin: 1rem 0;
+}
+.sidebar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+.sidebar a:hover {
+  color: hwb(120 95% 3%);
+}
+@media (max-width: 768px) {
+  .sidebar {
+    position: static;
+    width: 100%;
+    height: auto;
+  }
+  main {
+    margin-left: 0;
+  }
+}
